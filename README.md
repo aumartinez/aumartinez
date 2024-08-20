@@ -2,7 +2,7 @@
 - 👀 I’m interested in FrontEnd and BackEnd Technologies, worked with JavaScript, HTML, CSS, Sass, Bootstrap, Laravel, JQuery, VueJS, PHP and MySQL
 - 🌱 I’m currently learning React and NodeJS
 - 💞️ I’m looking to collaborate on FrontEnd development
-- 📫 You can reach out to me at [this contact page](https://aumartinez.github.io/#contact)
+- 📫 You can reach out to me at [this contact page](https://forms.office.com/r/55cFsx9QXt)
 
 <!---
 aumartinez/aumartinez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
